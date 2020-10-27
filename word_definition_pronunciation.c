@@ -57,7 +57,7 @@ void play_audio()
 		}
 	}
 	fclose(fp_dictionary);
-	sprintf(cmd, "vlc \"%s\" --qt-start-minimized", definition);
+	sprintf(cmd, "vlc \"%s\" --qt-start-minimized vlc:\\quit", definition);
 	system(cmd);
 }
 
