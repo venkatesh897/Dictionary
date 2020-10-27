@@ -1,0 +1,344 @@
+[
+    {
+        "word": "run",
+        "phonetics": [
+            {
+                "text": "/rən/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/run_us_1.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Move at a speed faster than a walk, never having both or all the feet on the ground at the same time.",
+                        "example": "the dog ran across the road",
+                        "synonyms": [
+                            "sprint",
+                            "race",
+                            "dart",
+                            "rush",
+                            "dash",
+                            "hasten",
+                            "hurry",
+                            "scurry",
+                            "scuttle",
+                            "scamper",
+                            "hare",
+                            "bolt",
+                            "bound",
+                            "fly",
+                            "gallop",
+                            "career",
+                            "charge",
+                            "pound",
+                            "shoot",
+                            "hurtle",
+                            "speed",
+                            "streak",
+                            "whizz",
+                            "zoom",
+                            "sweep",
+                            "go like lightning",
+                            "go hell for leather",
+                            "go like the wind",
+                            "flash",
+                            "double"
+                        ]
+                    },
+                    {
+                        "definition": "Pass or cause to pass quickly or smoothly in a particular direction.",
+                        "example": "the rumor ran through the pack of photographers",
+                        "synonyms": [
+                            "go",
+                            "pass",
+                            "move",
+                            "travel"
+                        ]
+                    },
+                    {
+                        "definition": "(with reference to a liquid) flow or cause to flow.",
+                        "example": "a small river runs into the sea at one side of the castle",
+                        "synonyms": [
+                            "flow",
+                            "pour",
+                            "stream",
+                            "gush",
+                            "flood",
+                            "glide",
+                            "cascade",
+                            "spurt",
+                            "jet",
+                            "issue"
+                        ]
+                    },
+                    {
+                        "definition": "Extend or cause to extend in a particular direction.",
+                        "example": "cobbled streets run down to a tiny harbor",
+                        "synonyms": [
+                            "extend",
+                            "stretch",
+                            "reach",
+                            "range",
+                            "continue",
+                            "go"
+                        ]
+                    },
+                    {
+                        "definition": "(of a bus, train, ferry, or other form of transportation) make a regular journey on a particular route.",
+                        "example": "buses run into town every half hour",
+                        "synonyms": [
+                            "travel",
+                            "ply",
+                            "shuttle",
+                            "go",
+                            "make a regular journey"
+                        ]
+                    },
+                    {
+                        "definition": "Be in charge of; manage.",
+                        "example": "Andrea runs her own catering business",
+                        "synonyms": [
+                            "be in charge of",
+                            "manage",
+                            "administer",
+                            "direct",
+                            "control",
+                            "be in control of",
+                            "be the boss of",
+                            "boss",
+                            "head",
+                            "lead",
+                            "govern",
+                            "supervise",
+                            "superintend",
+                            "oversee",
+                            "look after",
+                            "organize",
+                            "coordinate",
+                            "regulate"
+                        ]
+                    },
+                    {
+                        "definition": "Be in or cause to be in operation; function or cause to function.",
+                        "example": "the car runs on unleaded fuel",
+                        "synonyms": [
+                            "operate",
+                            "function",
+                            "work",
+                            "go",
+                            "be in operation"
+                        ]
+                    },
+                    {
+                        "definition": "Continue or be valid or operative for a particular period of time.",
+                        "example": "the course ran for two days",
+                        "synonyms": [
+                            "be valid",
+                            "last",
+                            "be in effect",
+                            "operate",
+                            "be in operation",
+                            "be operative",
+                            "be current",
+                            "continue",
+                            "be effective",
+                            "have force",
+                            "have effect"
+                        ]
+                    },
+                    {
+                        "definition": "Be a candidate in a political election.",
+                        "example": "he announced that he intended to run for President",
+                        "synonyms": [
+                            "stand for",
+                            "stand for election as",
+                            "stand as a candidate for",
+                            "be a contender for",
+                            "put oneself forward for",
+                            "put oneself up for"
+                        ]
+                    },
+                    {
+                        "definition": "Publish or be published in a newspaper or magazine.",
+                        "example": "the tabloids ran the story",
+                        "synonyms": [
+                            "publish",
+                            "print",
+                            "feature",
+                            "carry",
+                            "put out",
+                            "release",
+                            "issue"
+                        ]
+                    },
+                    {
+                        "definition": "Bring (goods) into a country illegally and secretly; smuggle.",
+                        "example": "they run drugs for the cocaine cartels",
+                        "synonyms": [
+                            "smuggle",
+                            "traffic in",
+                            "deal in"
+                        ]
+                    },
+                    {
+                        "definition": "(of an object or act) cost (someone) (a specified amount)",
+                        "example": "a new photocopier will run us about $1,300"
+                    },
+                    {
+                        "definition": "(of a stocking or pair of tights) develop a vertical line of unraveled stitches."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act or spell of running.",
+                        "example": "I usually go for a run in the morning",
+                        "synonyms": [
+                            "sprint",
+                            "race",
+                            "dash",
+                            "gallop",
+                            "rush",
+                            "spurt"
+                        ]
+                    },
+                    {
+                        "definition": "A journey accomplished or route taken by a vehicle, aircraft, or boat, especially on a regular basis.",
+                        "example": "the New York-Washington run",
+                        "synonyms": [
+                            "route",
+                            "way",
+                            "course",
+                            "journey"
+                        ]
+                    },
+                    {
+                        "definition": "An opportunity or attempt to achieve something.",
+                        "example": "their absence means the Russians will have a clear run at the title",
+                        "synonyms": [
+                            "chance",
+                            "lucky chance",
+                            "good time",
+                            "golden opportunity",
+                            "time",
+                            "occasion",
+                            "moment",
+                            "favourable moment",
+                            "favourable occasion",
+                            "favourable time",
+                            "right set of circumstances",
+                            "appropriate moment",
+                            "appropriate occasion",
+                            "appropriate time",
+                            "suitable moment",
+                            "suitable occasion",
+                            "suitable time",
+                            "opportune moment",
+                            "opportune occasion",
+                            "opportune time",
+                            "opening",
+                            "option",
+                            "window",
+                            "window of opportunity",
+                            "slot",
+                            "turn",
+                            "go",
+                            "run",
+                            "clear run",
+                            "field day"
+                        ]
+                    },
+                    {
+                        "definition": "A continuous spell of a particular situation or condition.",
+                        "example": "he's had a run of bad luck",
+                        "synonyms": [
+                            "period",
+                            "spell",
+                            "stretch",
+                            "spate",
+                            "bout"
+                        ]
+                    },
+                    {
+                        "definition": "A widespread and sudden or continuous demand for (a particular currency or commodity)",
+                        "example": "there's been a big run on nostalgia toys this year"
+                    },
+                    {
+                        "definition": "The average or usual type of person or thing.",
+                        "example": "she stood out from the general run of varsity cheerleaders",
+                        "synonyms": [
+                            "type",
+                            "kind",
+                            "sort",
+                            "variety",
+                            "class",
+                            "category",
+                            "order"
+                        ]
+                    },
+                    {
+                        "definition": "A sloping snow-covered course or track used for skiing, bobsledding, or tobogganing.",
+                        "example": "a ski run",
+                        "synonyms": [
+                            "slope",
+                            "piste",
+                            "track"
+                        ]
+                    },
+                    {
+                        "definition": "An enclosed area in which domestic animals or birds can run freely in the open.",
+                        "example": "a chicken run",
+                        "synonyms": [
+                            "enclosure",
+                            "pen",
+                            "coop",
+                            "compound"
+                        ]
+                    },
+                    {
+                        "definition": "Free and unrestricted use of or access to.",
+                        "example": "her cats were given the run of the house",
+                        "synonyms": [
+                            "free use of",
+                            "unrestricted use of",
+                            "unrestricted access to"
+                        ]
+                    },
+                    {
+                        "definition": "A point scored by hitting the ball so that both batsmen are able to run between the wickets, or awarded in some other circumstances.",
+                        "example": "His first five balls resulted in eight runs scored for two wickets."
+                    },
+                    {
+                        "definition": "A vertical line of unraveled stitches in stockings or tights.",
+                        "example": "she had a run in her nylons",
+                        "synonyms": [
+                            "rip",
+                            "tear",
+                            "snag",
+                            "hole"
+                        ]
+                    },
+                    {
+                        "definition": "A downward trickle of paint or a similar substance when applied too thickly.",
+                        "example": "varnish should be applied with care to avoid runs and an uneven surface"
+                    },
+                    {
+                        "definition": "Diarrhoea.",
+                        "synonyms": [
+                            "diarrhoea",
+                            "loose motions",
+                            "looseness of the bowels"
+                        ]
+                    },
+                    {
+                        "definition": "The after part of a ship's bottom where it rises and narrows toward the stern."
+                    }
+                ]
+            }
+        ]
+    }
+]
