@@ -67,7 +67,7 @@ void display_definition()
 	char word[30];
 	printf("Enter word: ");
 	scanf("%s", word);
-	sprintf(cmd, "curl \"https://api.dictionaryapi.dev/api/v2/entries/en/%s\" > %s", word, DICTIONARY_FILE);
+	sprintf(cmd, "curl \"https://api.dictionaryapi.dev/api/v2/entries/en/%s\" > %s -s", word, DICTIONARY_FILE);
 	system(cmd);
 	printf("Definition for word %s: ", word);
 	char* definition = get_definition(DICTIONARY_FILE);
