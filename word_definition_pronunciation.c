@@ -1,3 +1,4 @@
+//Program to print definition and play pronunciation of a word
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
