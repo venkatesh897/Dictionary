@@ -10,20 +10,20 @@ char* get_definition(char* file_name)
 	char data[1000];
 	FILE* fp_dictionary = fopen(file_name, "r");
 	fread(data, sizeof(data), 1, fp_dictionary);
-	char* token = strtok(data, "[{:,\"");
+	char* dictionary_data_token = strtok(data, "[{:,\"");
 	char is_found = 'n';
 	char* definition;
-	while(token != NULL)
+	while(dictionary_data_token != NULL)
 	{
-		if(strcmp(token, "definition") == 0)
+		if(strcmp(dictionary_data_token, "definition") == 0)
 		{
 			is_found = 'y';
 		}
-		token = strtok(NULL, "[{:,\"");
-		token = strtok(NULL, "[{:,\"");
+		dictionary_data_token = strtok(NULL, "[{:,\"");
+		dictionary_data_token = strtok(NULL, "[{:,\"");
 		if(is_found == 'y')
 		{
-			definition = token;
+			definition = dictionary_data_token;
 			printf("%s\n", definition);
 			break;
 		}
@@ -37,27 +37,27 @@ void play_audio()
 	char data[1000];
 	FILE* fp_dictionary = fopen(DICTIONARY_FILE, "r");
 	fread(data, sizeof(data), 1, fp_dictionary);
-	char* token = strtok(data, "[{:,\"");
+	char* dictionary_data_token = strtok(data, "[{:,\"");
 	char is_found = 'n';
 	char* definition;
 	char cmd[100];
-	while(token != NULL)
+	while(dictionary_data_token != NULL)
 	{
-		if(strcmp(token, "audio") == 0)
+		if(strcmp(dictionary_data_token, "audio") == 0)
 		{
 			is_found = 'y';
 		}
-		token = strtok(NULL, "[{,\"");
-		token = strtok(NULL, "[{,\"");
+		dictionary_data_token = strtok(NULL, "[{,\"");
+		dictionary_data_token = strtok(NULL, "[{,\"");
 		if(is_found == 'y')
 		{
-			definition = token;
+			definition = dictionary_data_token;
 			printf("%s", definition);
 			break;
 		}
 	}
 	fclose(fp_dictionary);
-	sprintf(cmd, "vlc \"%s\" --qt-start-minimized vlc:\\quit", definition);
+	sprintf(cmd, "vlc \"%s\" --qt-start-minimized", definition);
 	system(cmd);
 }
 
